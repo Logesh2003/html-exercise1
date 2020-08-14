@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+.input1{
+	text-align: center; 
+	border-color: green;
+}
+.input2{
+	 text-align: center;
+	  border-color: blue;
+}
+.input3{
+	 border-color: orange;
+	margin-bottom: 10px;
+}
